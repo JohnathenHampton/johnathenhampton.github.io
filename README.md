@@ -1,2 +1,1 @@
-# johnathenhampton.github.io
-my website
+https://johnathenhampton.github.io
